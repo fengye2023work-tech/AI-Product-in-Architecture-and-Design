@@ -15,7 +15,7 @@ AI API → GH Python → Grasshopper → Output
 ![Architecture Diagram](docs/architecture.png)
 
 ## Demo
-[https://your-demo-link.com](https://www.dropbox.com/scl/fi/uxrlyprjt7dnmf6r400k8/NL-Modeling.mp4?rlkey=naim21123gm8hgvvhrcu60pfa&st=60miqezd&dl=0)
+https://www.dropbox.com/scl/fi/uxrlyprjt7dnmf6r400k8/NL-Modeling.mp4?rlkey=naim21123gm8hgvvhrcu60pfa&st=60miqezd&dl=0
 
 ## Tech Stack
 Python | Grasshopper | Rhino | AI API | Git | Others
