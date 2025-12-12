@@ -12,10 +12,12 @@ A lightweight Design–Modeling Copilot that converts simple and vague prompts i
 High-level explanation of workflow:
 AI API → GH Python → Grasshopper → Output
 
-![Architecture Diagram](docs/architecture.png)
+<img width="1309" height="698" alt="Script overview" src="https://github.com/user-attachments/assets/755ffa93-f8ea-4c60-9819-db09fc37b82a" />
 
 ## Demo
 https://www.dropbox.com/scl/fi/uxrlyprjt7dnmf6r400k8/NL-Modeling.mp4?rlkey=naim21123gm8hgvvhrcu60pfa&st=60miqezd&dl=0
+
+<img width="842" height="1144" alt="demo_screenshot" src="https://github.com/user-attachments/assets/b1adf1d8-de2e-44d0-8cb4-572ba59efeba" />
 
 ## Tech Stack
 Python | Grasshopper | Rhino | AI API | Git | Others
